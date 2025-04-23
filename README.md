@@ -1,0 +1,1 @@
+In this lab, we explore drug exposure patterns using synthetic patient data from the Centers for Medicare & Medicaid Services (CMS), formatted in the OMOP Common Data Model v5.2. I analyzed the drug_era, person, and concept tables to identify commonly used drug ingredients, examined exposure across race and gender, and tested hypotheses related to drug usage differences.
